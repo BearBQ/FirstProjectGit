@@ -15,7 +15,7 @@
 
 
 
-Git и GitHub глазами новичка:
-<img src="https://cs14.pikabu.ru/post_img/big/2022/09/19/7/1663582775177633874.jpg" width="400" alt="Пример картинки">
+Git и GitHub глазами новичка: <br>
+<img src="https://cs14.pikabu.ru/post_img/big/2022/09/19/7/1663582775177633874.jpg" width="400" alt="Git и GitHub глазами новичка">
 
 
